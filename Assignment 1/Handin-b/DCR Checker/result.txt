@@ -1,0 +1,893 @@
+pattern 1 is:
+*********The result of pattern 1 is: *************
+total amount is: 594
+reject amount is: 0
+accept amount is: 594
+
+
+pattern 2 is:
+*********The result of pattern 2 is: *************
+total amount is: 594
+reject amount is: 0
+accept amount is: 594
+
+
+pattern 3 is:
+*********The result of pattern 3 is: *************
+In 14a-289_0, Final state rejects.
+In 14b-448_0, Final state rejects.
+In 14b-448_1, Final state rejects.
+In 14b-425_0, Final state rejects.
+In 14b-304_0, Final state rejects.
+In 14b-327_0, Final state rejects.
+In 14a-122_0, Final state rejects.
+In 14b-511_1, Final state rejects.
+In 14b-534_0, Final state rejects.
+In 14b-557_0, Final state rejects.
+In 14b-511_0, Final state rejects.
+In 14a-255_0, Final state rejects.
+In 14a-278_0, Final state rejects.
+In 14b-392_0, Final state rejects.
+In 14b-620_0, Final state rejects.
+In 14a-232_0, Final state rejects.
+In 14b-620_1, Final state rejects.
+In 14a-047_0, Final state rejects.
+In 14b-414_0, Final state rejects.
+In 14b-437_0, Final state rejects.
+In 14b-316_0, Final state rejects.
+In 14b-490_0, Final state rejects.
+In 14a-111_0, Final state rejects.
+In 14b-339_0, Final state rejects.
+In 14b-522_1, Final state rejects.
+In 14b-545_1, Final state rejects.
+In 14b-568_1, Final state rejects.
+In 14b-522_0, Final state rejects.
+In 14b-568_0, Final state rejects.
+In 14b-545_0, Final state rejects.
+In 14a-288_1, Final state rejects.
+In 14b-447_0, Final state rejects.
+In 14a-288_0, Final state rejects.
+In 14b-447_1, Final state rejects.
+In 14b-610_0, Final state rejects.
+In 14a-035_0, Final state rejects.
+In 14b-424_0, Final state rejects.
+In 14a-058_0, Final state rejects.
+In 14b-303_0, Final state rejects.
+In 14b-349_0, Final state rejects.
+In 14b-326_0, Final state rejects.
+In 14a-121_0, Final state rejects.
+In 14a-144_0, Final state rejects.
+In 14b-558_1, Final state rejects.
+In 14b-558_2, Final state rejects.
+In 14a-167_0, Final state rejects.
+In 14b-512_0, Final state rejects.
+In 14b-558_0, Final state rejects.
+In 14b-535_1, Final state rejects.
+In 14b-512_1, Final state rejects.
+In 14b-535_0, Final state rejects.
+In 14b-391_0, Final state rejects.
+In 14a-277_0, Final state rejects.
+In 14b-391_1, Final state rejects.
+In 14b-459_0, Final state rejects.
+In 14a-254_0, Final state rejects.
+In 14b-621_1, Final state rejects.
+In 14b-621_0, Final state rejects.
+In 14b-436_0, Final state rejects.
+In 14a-069_0, Final state rejects.
+In 14b-413_0, Final state rejects.
+In 14b-315_0, Final state rejects.
+In 14b-338_0, Final state rejects.
+In 14b-569_1, Final state rejects.
+In 14a-156_0, Final state rejects.
+In 14a-179_0, Final state rejects.
+In 14b-391_2, Final state rejects.
+In 14b-500_0, Final state rejects.
+In 14b-523_0, Final state rejects.
+In 14b-546_0, Final state rejects.
+In 14b-569_0, Final state rejects.
+In 14b-500_1, Final state rejects.
+In 14b-546_1, Final state rejects.
+In 14b-611_1, Final state rejects.
+In 14b-480_1, Final state rejects.
+In 14b-611_0, Final state rejects.
+In 14b-427_0, Final state rejects.
+In 14a-038_0, Final state rejects.
+In 14a-091_0, Final state rejects.
+In 14a-101_0, Final state rejects.
+In 14a-147_0, Final state rejects.
+In 14a-124_0, Final state rejects.
+In 14b-329_0, Final state rejects.
+In 14b-480_0, Final state rejects.
+In 14b-559_0, Final state rejects.
+In 14b-536_0, Final state rejects.
+In 14b-513_0, Final state rejects.
+In 14a-211_0, Final state rejects.
+In 14a-234_0, Final state rejects.
+In 14b-439_0, Final state rejects.
+In 14b-492_0, Final state rejects.
+In 14b-622_0, Final state rejects.
+In 14b-416_0, Final state rejects.
+In 14b-492_1, Final state rejects.
+In 14a-026_0, Final state rejects.
+In 14b-547_1, Final state rejects.
+In 14b-501_0, Final state rejects.
+In 14b-547_0, Final state rejects.
+In 14b-501_1, Final state rejects.
+In 14a-159_0, Final state rejects.
+In 14b-524_0, Final state rejects.
+In 14a-244_0, Final state rejects.
+In 14b-449_0, Final state rejects.
+In 14b-590_0, Final state rejects.
+In 14b-612_0, Final state rejects.
+In 14b-426_0, Final state rejects.
+In 14a-037_0, Final state rejects.
+In 14a-090_0, Final state rejects.
+In 14a-123_0, Final state rejects.
+In 14b-305_0, Final state rejects.
+In 14b-328_0, Final state rejects.
+In 14b-514_1, Final state rejects.
+In 14b-537_0, Final state rejects.
+In 14b-537_1, Final state rejects.
+In 14b-514_0, Final state rejects.
+In 14a-279_0, Final state rejects.
+In 14a-256_0, Final state rejects.
+In 14b-370_0, Final state rejects.
+In 14b-600_1, Final state rejects.
+In 14b-623_0, Final state rejects.
+In 14b-438_1, Final state rejects.
+In 14b-491_1, Final state rejects.
+In 14b-438_0, Final state rejects.
+In 14b-600_0, Final state rejects.
+In 14b-317_0, Final state rejects.
+In 14b-491_0, Final state rejects.
+In 14b-525_1, Final state rejects.
+In 14b-548_0, Final state rejects.
+In 14a-158_0, Final state rejects.
+In 14b-502_0, Final state rejects.
+In 14b-525_0, Final state rejects.
+In 14b-502_1, Final state rejects.
+In 14b-467_1, Final state rejects.
+In 14a-201_0, Final state rejects.
+In 14b-421_0, Final state rejects.
+In 14b-467_0, Final state rejects.
+In 14a-224_0, Final state rejects.
+In 14b-444_0, Final state rejects.
+In 14a-070_0, Final state rejects.
+In 14a-103_0, Final state rejects.
+In 14b-530_0, Final state rejects.
+In 14b-553_0, Final state rejects.
+In 14b-576_0, Final state rejects.
+In 14b-599_0, Final state rejects.
+In 14a-126_0, Final state rejects.
+In 14b-553_1, Final state rejects.
+In 14b-599_1, Final state rejects.
+In 14b-346_0, Final state rejects.
+In 14b-369_0, Final state rejects.
+In 14b-530_1, Final state rejects.
+In 14b-300_0, Final state rejects.
+In 14b-576_1, Final state rejects.
+In 14b-410_0, Final state rejects.
+In 14b-433_0, Final state rejects.
+In 14b-456_0, Final state rejects.
+In 14b-479_0, Final state rejects.
+In 14b-479_1, Final state rejects.
+In 14a-259_0, Final state rejects.
+In 14b-433_1, Final state rejects.
+In 14b-541_1, Final state rejects.
+In 14b-564_1, Final state rejects.
+In 14b-587_1, Final state rejects.
+In 14b-335_0, Final state rejects.
+In 14b-564_0, Final state rejects.
+In 14b-358_0, Final state rejects.
+In 14b-541_0, Final state rejects.
+In 14a-138_0, Final state rejects.
+In 14b-312_0, Final state rejects.
+In 14b-587_0, Final state rejects.
+In 14b-466_2, Final state rejects.
+In 14a-039_0, Final state rejects.
+In 14a-269_0, Final state rejects.
+In 14b-466_1, Final state rejects.
+In 14b-489_0, Final state rejects.
+In 14b-489_1, Final state rejects.
+In 14b-443_0, Final state rejects.
+In 14b-466_0, Final state rejects.
+In 14a-092_0, Final state rejects.
+In 14a-102_0, Final state rejects.
+In 14a-125_0, Final state rejects.
+In 14a-148_0, Final state rejects.
+In 14b-554_0, Final state rejects.
+In 14b-368_0, Final state rejects.
+In 14b-531_0, Final state rejects.
+In 14b-345_0, Final state rejects.
+In 14b-554_1, Final state rejects.
+In 14b-577_1, Final state rejects.
+In 14b-322_0, Final state rejects.
+In 14b-577_0, Final state rejects.
+In 14b-432_1, Final state rejects.
+In 14b-478_1, Final state rejects.
+In 14b-432_0, Final state rejects.
+In 14b-478_0, Final state rejects.
+In 14a-027_0, Final state rejects.
+In 14b-455_0, Final state rejects.
+In 14a-114_0, Final state rejects.
+In 14a-137_0, Final state rejects.
+In 14b-542_0, Final state rejects.
+In 14b-565_0, Final state rejects.
+In 14b-588_0, Final state rejects.
+In 14a-080_0, Final state rejects.
+In 14b-542_1, Final state rejects.
+In 14b-357_0, Final state rejects.
+In 14b-311_0, Final state rejects.
+In 14b-446_0, Final state rejects.
+In 14b-446_1, Final state rejects.
+In 14b-469_1, Final state rejects.
+In 14b-469_0, Final state rejects.
+In 14a-226_0, Final state rejects.
+In 14b-423_0, Final state rejects.
+In 14b-302_0, Final state rejects.
+In 14b-325_0, Final state rejects.
+In 14b-348_0, Final state rejects.
+In 14a-095_0, Final state rejects.
+In 14b-532_0, Final state rejects.
+In 14a-072_0, Final state rejects.
+In 14b-578_1, Final state rejects.
+In 14a-105_0, Final state rejects.
+In 14b-555_0, Final state rejects.
+In 14b-578_0, Final state rejects.
+In 14a-128_0, Final state rejects.
+In 14b-555_1, Final state rejects.
+In 14b-390_0, Final state rejects.
+In 14b-458_0, Final state rejects.
+In 14b-458_1, Final state rejects.
+In 14a-238_0, Final state rejects.
+In 14b-412_0, Final state rejects.
+In 14b-435_0, Final state rejects.
+In 14b-543_0, Final state rejects.
+In 14b-589_0, Final state rejects.
+In 14b-589_1, Final state rejects.
+In 14b-337_0, Final state rejects.
+In 14b-520_0, Final state rejects.
+In 14a-291_0, Final state rejects.
+In 14a-060_0, Final state rejects.
+In 14a-083_0, Final state rejects.
+In 14b-566_0, Final state rejects.
+In 14b-422_0, Final state rejects.
+In 14b-445_0, Final state rejects.
+In 14b-468_0, Final state rejects.
+In 14a-180_0, Final state rejects.
+In 14b-468_1, Final state rejects.
+In 14b-631_0, Final state rejects.
+In 14a-094_0, Final state rejects.
+In 14b-324_0, Final state rejects.
+In 14b-510_0, Final state rejects.
+In 14b-347_0, Final state rejects.
+In 14b-533_1, Final state rejects.
+In 14b-556_1, Final state rejects.
+In 14b-510_1, Final state rejects.
+In 14b-533_0, Final state rejects.
+In 14b-579_0, Final state rejects.
+In 14a-127_0, Final state rejects.
+In 14b-301_0, Final state rejects.
+In 14b-556_0, Final state rejects.
+In 14b-411_0, Final state rejects.
+In 14b-457_0, Final state rejects.
+In 14a-192_0, Final state rejects.
+In 14b-434_0, Final state rejects.
+In 14b-336_0, Final state rejects.
+In 14b-359_0, Final state rejects.
+In 14b-521_0, Final state rejects.
+In 14a-290_0, Final state rejects.
+In 14b-544_0, Final state rejects.
+In 14b-567_0, Final state rejects.
+In 14b-508_0, Final state rejects.
+In 14a-160_0, Final state rejects.
+In 14b-508_1, Final state rejects.
+In 14b-440_0, Final state rejects.
+In 14b-440_1, Final state rejects.
+In 14b-617_0, Final state rejects.
+In 14a-205_0, Final state rejects.
+In 14b-463_0, Final state rejects.
+In 14a-228_0, Final state rejects.
+In 14b-486_0, Final state rejects.
+In 14b-572_1, Final state rejects.
+In 14b-572_0, Final state rejects.
+In 14a-281_0, Final state rejects.
+In 14b-388_0, Final state rejects.
+In 14b-595_0, Final state rejects.
+In 14b-595_1, Final state rejects.
+In 14b-342_0, Final state rejects.
+In 14b-365_0, Final state rejects.
+In 14a-195_0, Final state rejects.
+In 14b-519_0, Final state rejects.
+In 14a-172_0, Final state rejects.
+In 14b-452_0, Final state rejects.
+In 14b-475_0, Final state rejects.
+In 14b-498_0, Final state rejects.
+In 14b-605_0, Final state rejects.
+In 14b-628_0, Final state rejects.
+In 14b-605_1, Final state rejects.
+In 14a-217_0, Final state rejects.
+In 14b-475_1, Final state rejects.
+In 14b-617_1, Final state rejects.
+In 14b-560_0, Final state rejects.
+In 14a-293_0, Final state rejects.
+In 14b-507_0, Final state rejects.
+In 14b-583_0, Final state rejects.
+In 14b-583_1, Final state rejects.
+In 14a-119_0, Final state rejects.
+In 14b-354_0, Final state rejects.
+In 14b-509_0, Final state rejects.
+In 14b-509_1, Final state rejects.
+In 14b-462_0, Final state rejects.
+In 14a-096_1, Final state rejects.
+In 14a-204_0, Final state rejects.
+In 14a-096_2, Final state rejects.
+In 14b-462_1, Final state rejects.
+In 14b-485_0, Final state rejects.
+In 14b-550_1, Final state rejects.
+In 14b-607_0, Final state rejects.
+In 14a-096_0, Final state rejects.
+In 14b-573_0, Final state rejects.
+In 14b-607_1, Final state rejects.
+In 14b-550_0, Final state rejects.
+In 14b-341_0, Final state rejects.
+In 14b-387_0, Final state rejects.
+In 14b-387_1, Final state rejects.
+In 14a-280_0, Final state rejects.
+In 14a-129_0, Final state rejects.
+In 14b-596_0, Final state rejects.
+In 14b-596_1, Final state rejects.
+In 14a-106_0, Final state rejects.
+In 14b-364_0, Final state rejects.
+In 14a-171_0, Final state rejects.
+In 14b-451_0, Final state rejects.
+In 14b-474_1, Final state rejects.
+In 14b-497_1, Final state rejects.
+In 14a-216_0, Final state rejects.
+In 14b-474_0, Final state rejects.
+In 14b-606_0, Final state rejects.
+In 14a-239_0, Final state rejects.
+In 14b-497_0, Final state rejects.
+In 14b-618_1, Final state rejects.
+In 14b-561_1, Final state rejects.
+In 14b-618_0, Final state rejects.
+In 14b-561_0, Final state rejects.
+In 14a-292_0, Final state rejects.
+In 14b-584_0, Final state rejects.
+In 14b-353_0, Final state rejects.
+In 14b-376_0, Final state rejects.
+In 14b-465_2, Final state rejects.
+In 14b-488_1, Final state rejects.
+In 14b-442_0, Final state rejects.
+In 14b-488_0, Final state rejects.
+In 14a-099_0, Final state rejects.
+In 14b-465_1, Final state rejects.
+In 14a-099_1, Final state rejects.
+In 14b-465_0, Final state rejects.
+In 14b-574_1, Final state rejects.
+In 14b-551_0, Final state rejects.
+In 14b-574_0, Final state rejects.
+In 14b-608_0, Final state rejects.
+In 14a-283_0, Final state rejects.
+In 14a-185_0, Final state rejects.
+In 14a-109_0, Final state rejects.
+In 14b-321_0, Final state rejects.
+In 14b-344_0, Final state rejects.
+In 14b-597_0, Final state rejects.
+In 14b-477_1, Final state rejects.
+In 14b-431_0, Final state rejects.
+In 14a-219_0, Final state rejects.
+In 14a-295_0, Final state rejects.
+In 14b-454_0, Final state rejects.
+In 14b-477_0, Final state rejects.
+In 14a-208_8, Final state rejects.
+In 14b-619_1, Final state rejects.
+In 14b-379_1, Final state rejects.
+In 14b-562_1, Final state rejects.
+In 14b-619_0, Final state rejects.
+In 14b-379_0, Final state rejects.
+In 14b-562_0, Final state rejects.
+In 14a-208_4, Final state rejects.
+In 14a-208_5, Final state rejects.
+In 14a-208_6, Final state rejects.
+In 14a-208_7, Final state rejects.
+In 14a-174_0, Final state rejects.
+In 14b-310_0, Final state rejects.
+In 14b-585_0, Final state rejects.
+In 14b-585_1, Final state rejects.
+In 14b-333_0, Final state rejects.
+In 14a-161_0, Final state rejects.
+In 14a-075_0, Final state rejects.
+In 14b-441_0, Final state rejects.
+In 14b-464_0, Final state rejects.
+In 14b-487_0, Final state rejects.
+In 14a-098_0, Final state rejects.
+In 14b-464_1, Final state rejects.
+In 14b-598_1, Final state rejects.
+In 14b-609_0, Final state rejects.
+In 14b-575_0, Final state rejects.
+In 14b-609_1, Final state rejects.
+In 14b-366_2, Final state rejects.
+In 14b-552_0, Final state rejects.
+In 14a-052_0, Final state rejects.
+In 14b-389_0, Final state rejects.
+In 14b-366_1, Final state rejects.
+In 14a-108_0, Final state rejects.
+In 14b-366_0, Final state rejects.
+In 14b-598_0, Final state rejects.
+In 14b-430_0, Final state rejects.
+In 14b-453_0, Final state rejects.
+In 14b-499_0, Final state rejects.
+In 14b-476_1, Final state rejects.
+In 14a-218_0, Final state rejects.
+In 14b-476_0, Final state rejects.
+In 14b-540_0, Final state rejects.
+In 14b-563_0, Final state rejects.
+In 14b-540_1, Final state rejects.
+In 14a-294_0, Final state rejects.
+In 14b-332_0, Final state rejects.
+In 14b-355_0, Final state rejects.
+In 14b-355_1, Final state rejects.
+In 14b-586_0, Final state rejects.
+In 14b-586_1, Final state rejects.
+In 14a-262_0, Final state rejects.
+In 14a-285_0, Final state rejects.
+In 14a-078_0, Final state rejects.
+In 14b-429_1, Final state rejects.
+In 14b-482_1, Final state rejects.
+In 14b-613_0, Final state rejects.
+In 14a-209_0, Final state rejects.
+In 14b-429_0, Final state rejects.
+In 14b-298_0, Final state rejects.
+In 14b-482_0, Final state rejects.
+In 14b-308_0, Final state rejects.
+In 14a-141_0, Final state rejects.
+In 14b-308_1, Final state rejects.
+In 14b-515_1, Final state rejects.
+In 14b-538_1, Final state rejects.
+In 14b-591_0, Final state rejects.
+In 14b-515_0, Final state rejects.
+In 14b-591_1, Final state rejects.
+In 14b-361_0, Final state rejects.
+In 14b-538_0, Final state rejects.
+In 14a-251_0, Final state rejects.
+In 14a-274_0, Final state rejects.
+In 14a-043_0, Final state rejects.
+In 14b-471_0, Final state rejects.
+In 14b-494_0, Final state rejects.
+In 14b-601_0, Final state rejects.
+In 14b-624_0, Final state rejects.
+In 14b-471_1, Final state rejects.
+In 14b-624_1, Final state rejects.
+In 14a-130_0, Final state rejects.
+In 14b-503_1, Final state rejects.
+In 14b-549_1, Final state rejects.
+In 14a-153_0, Final state rejects.
+In 14b-526_0, Final state rejects.
+In 14a-176_0, Final state rejects.
+In 14b-350_0, Final state rejects.
+In 14b-549_0, Final state rejects.
+In 14b-396_0, Final state rejects.
+In 14b-503_0, Final state rejects.
+In 14a-284_0, Final state rejects.
+In 14a-140_0, Final state rejects.
+In 14a-208_1, Final state rejects.
+In 14a-208_2, Final state rejects.
+In 14b-428_0, Final state rejects.
+In 14b-481_0, Final state rejects.
+In 14a-031_2, Final state rejects.
+In 14b-297_0, Final state rejects.
+In 14b-614_1, Final state rejects.
+In 14b-614_0, Final state rejects.
+In 14b-307_0, Final state rejects.
+In 14a-163_0, Final state rejects.
+In 14a-186_0, Final state rejects.
+In 14b-516_0, Final state rejects.
+In 14b-539_0, Final state rejects.
+In 14a-261_0, Final state rejects.
+In 14b-539_1, Final state rejects.
+In 14b-592_0, Final state rejects.
+In 14b-592_1, Final state rejects.
+In 14b-360_0, Final state rejects.
+In 14b-516_1, Final state rejects.
+In 14b-383_0, Final state rejects.
+In 14a-273_0, Final state rejects.
+In 14b-493_1, Final state rejects.
+In 14a-042_0, Final state rejects.
+In 14a-088_0, Final state rejects.
+In 14a-296_0, Final state rejects.
+In 14b-470_0, Final state rejects.
+In 14b-602_0, Final state rejects.
+In 14b-493_0, Final state rejects.
+In 14b-602_1, Final state rejects.
+In 14b-625_1, Final state rejects.
+In 14b-625_0, Final state rejects.
+In 14a-152_0, Final state rejects.
+In 14a-175_0, Final state rejects.
+In 14b-504_0, Final state rejects.
+In 14b-527_0, Final state rejects.
+In 14b-580_0, Final state rejects.
+In 14a-250_0, Final state rejects.
+In 14b-527_1, Final state rejects.
+In 14b-395_0, Final state rejects.
+In 14a-264_0, Final state rejects.
+In 14a-287_0, Final state rejects.
+In 14b-529_1, Final state rejects.
+In 14b-408_0, Final state rejects.
+In 14b-484_0, Final state rejects.
+In 14b-461_0, Final state rejects.
+In 14b-484_1, Final state rejects.
+In 14b-615_0, Final state rejects.
+In 14b-570_1, Final state rejects.
+In 14b-570_0, Final state rejects.
+In 14a-120_0, Final state rejects.
+In 14b-340_0, Final state rejects.
+In 14b-363_0, Final state rejects.
+In 14b-386_0, Final state rejects.
+In 14b-517_1, Final state rejects.
+In 14b-593_0, Final state rejects.
+In 14a-166_0, Final state rejects.
+In 14b-517_0, Final state rejects.
+In 14b-593_1, Final state rejects.
+In 14a-230_0, Final state rejects.
+In 14a-253_0, Final state rejects.
+In 14a-276_0, Final state rejects.
+In 14a-045_0, Final state rejects.
+In 14b-450_0, Final state rejects.
+In 14b-473_0, Final state rejects.
+In 14b-626_1, Final state rejects.
+In 14b-496_0, Final state rejects.
+In 14b-603_0, Final state rejects.
+In 14b-626_0, Final state rejects.
+In 14b-496_1, Final state rejects.
+In 14b-409_0, Final state rejects.
+In 14b-505_0, Final state rejects.
+In 14b-581_0, Final state rejects.
+In 14b-505_1, Final state rejects.
+In 14b-528_1, Final state rejects.
+In 14b-581_1, Final state rejects.
+In 14a-155_0, Final state rejects.
+In 14b-528_0, Final state rejects.
+In 14b-375_0, Final state rejects.
+In 14b-507_1, Final state rejects.
+In 14a-240_0, Final state rejects.
+In 14a-286_0, Final state rejects.
+In 14a-263_0, Final state rejects.
+In 14b-407_0, Final state rejects.
+In 14b-460_0, Final state rejects.
+In 14b-483_0, Final state rejects.
+In 14a-056_0, Final state rejects.
+In 14b-483_1, Final state rejects.
+In 14b-460_2, Final state rejects.
+In 14b-299_0, Final state rejects.
+In 14b-460_1, Final state rejects.
+In 14b-616_0, Final state rejects.
+In 14b-571_1, Final state rejects.
+In 14b-571_0, Final state rejects.
+In 14b-309_0, Final state rejects.
+In 14b-362_1, Final state rejects.
+In 14b-362_0, Final state rejects.
+In 14a-165_0, Final state rejects.
+In 14a-188_0, Final state rejects.
+In 14b-518_0, Final state rejects.
+In 14b-594_0, Final state rejects.
+In 14b-594_1, Final state rejects.
+In 14b-362_2, Final state rejects.
+In 14a-275_0, Final state rejects.
+In 14b-518_1, Final state rejects.
+In 14a-252_0, Final state rejects.
+In 14b-495_0, Final state rejects.
+In 14b-472_1, Final state rejects.
+In 14b-472_0, Final state rejects.
+In 14b-604_1, Final state rejects.
+In 14b-627_1, Final state rejects.
+In 14b-627_0, Final state rejects.
+In 14b-495_1, Final state rejects.
+In 14b-604_0, Final state rejects.
+In 14b-408_1, Final state rejects.
+In 14b-351_0, Final state rejects.
+In 14b-506_0, Final state rejects.
+In 14b-529_0, Final state rejects.
+In 14b-582_0, Final state rejects.
+In 14b-582_1, Final state rejects.
+total amount is: 594
+reject amount is: 576
+accept amount is: 18
+
+
+pattern 4 is:
+*********The result of pattern 4 is: *************
+In 14b-380_0, Event Lawyer Review is not enabled, so reject.
+In 14b-448_1, Event Architect Review is not enabled, so reject.
+In 14b-425_0, Event Lawyer Review is not enabled, so reject.
+In 14b-304_0, Event Architect Review is not enabled, so reject.
+In 14b-327_0, Event Lawyer Review is not enabled, so reject.
+In 14a-122_0, Event Lawyer Review is not enabled, so reject.
+In 14b-511_1, Event Lawyer Review is not enabled, so reject.
+In 14a-255_0, Event Lawyer Review is not enabled, so reject.
+In 14a-278_0, Event Lawyer Review is not enabled, so reject.
+In 14a-232_0, Event Lawyer Review is not enabled, so reject.
+In 14b-620_1, Event Architect Review is not enabled, so reject.
+In 14a-111_0, Event Architect Review is not enabled, so reject.
+In 14b-522_1, Event Lawyer Review is not enabled, so reject.
+In 14b-568_1, Event Lawyer Review is not enabled, so reject.
+In 14b-447_1, Event Architect Review is not enabled, so reject.
+In 14a-035_0, Event Lawyer Review is not enabled, so reject.
+In 14b-303_0, Event Lawyer Review is not enabled, so reject.
+In 14b-349_0, Event Architect Review is not enabled, so reject.
+In 14b-326_0, Event Lawyer Review is not enabled, so reject.
+In 14a-121_0, Event Architect Review is not enabled, so reject.
+In 14b-558_2, Event Architect Review is not enabled, so reject.
+In 14a-167_0, Event Lawyer Review is not enabled, so reject.
+In 14b-535_1, Event Lawyer Review is not enabled, so reject.
+In 14b-512_1, Event Architect Review is not enabled, so reject.
+In 14a-277_0, Event Lawyer Review is not enabled, so reject.
+In 14b-621_1, Event Lawyer Review is not enabled, so reject.
+In 14a-069_0, Event Lawyer Review is not enabled, so reject.
+In 14b-413_0, Event Architect Review is not enabled, so reject.
+In 14b-315_0, Event Lawyer Review is not enabled, so reject.
+In 14b-338_0, Event Architect Review is not enabled, so reject.
+In 14b-569_1, Event Architect Review is not enabled, so reject.
+In 14a-179_0, Event Architect Review is not enabled, so reject.
+In 14b-500_1, Event Lawyer Review is not enabled, so reject.
+In 14b-546_1, Event Lawyer Review is not enabled, so reject.
+In 14b-611_1, Event Lawyer Review is not enabled, so reject.
+In 14b-480_1, Event Architect Review is not enabled, so reject.
+In 14b-427_0, Event Lawyer Review is not enabled, so reject.
+In 14a-038_0, Event Architect Review is not enabled, so reject.
+In 14a-101_0, Event Lawyer Review is not enabled, so reject.
+In 14a-147_0, Event Architect Review is not enabled, so reject.
+In 14a-124_0, Event Lawyer Review is not enabled, so reject.
+In 14a-211_0, Event Architect Review is not enabled, so reject.
+In 14a-234_0, Event Lawyer Review is not enabled, so reject.
+In 14b-416_0, Event Architect Review is not enabled, so reject.
+In 14b-492_1, Event Lawyer Review is not enabled, so reject.
+In 14a-026_0, Event Architect Review is not enabled, so reject.
+In 14b-547_1, Event Lawyer Review is not enabled, so reject.
+In 14b-501_1, Event Architect Review is not enabled, so reject.
+In 14a-159_0, Event Architect Review is not enabled, so reject.
+In 14a-244_0, Event Lawyer Review is not enabled, so reject.
+In 14a-037_0, Event Lawyer Review is not enabled, so reject.
+In 14a-090_0, Event Lawyer Review is not enabled, so reject.
+In 14a-123_0, Event Lawyer Review is not enabled, so reject.
+In 14b-305_0, Event Lawyer Review is not enabled, so reject.
+In 14b-328_0, Event Architect Review is not enabled, so reject.
+In 14b-514_1, Event Architect Review is not enabled, so reject.
+In 14b-537_1, Event Architect Review is not enabled, so reject.
+In 14a-256_0, Event Lawyer Review is not enabled, so reject.
+In 14b-600_1, Event Lawyer Review is not enabled, so reject.
+In 14b-438_1, Event Lawyer Review is not enabled, so reject.
+In 14b-491_1, Event Lawyer Review is not enabled, so reject.
+In 14b-317_0, Event Lawyer Review is not enabled, so reject.
+In 14b-525_1, Event Architect Review is not enabled, so reject.
+In 14a-158_0, Event Lawyer Review is not enabled, so reject.
+In 14b-502_1, Event Lawyer Review is not enabled, so reject.
+In 14b-467_1, Event Lawyer Review is not enabled, so reject.
+In 14a-201_0, Event Lawyer Review is not enabled, so reject.
+In 14a-224_0, Event Lawyer Review is not enabled, so reject.
+In 14a-070_0, Event Architect Review is not enabled, so reject.
+In 14a-126_0, Event Lawyer Review is not enabled, so reject.
+In 14b-553_1, Event Lawyer Review is not enabled, so reject.
+In 14b-599_1, Event Lawyer Review is not enabled, so reject.
+In 14b-530_1, Event Lawyer Review is not enabled, so reject.
+In 14b-410_0, Event Architect Review is not enabled, so reject.
+In 14b-456_1, Event Lawyer Review is not enabled, so reject.
+In 14b-479_1, Event Architect Review is not enabled, so reject.
+In 14a-259_0, Event Architect Review is not enabled, so reject.
+In 14b-433_1, Event Lawyer Review is not enabled, so reject.
+In 14b-541_1, Event Lawyer Review is not enabled, so reject.
+In 14b-564_1, Event Architect Review is not enabled, so reject.
+In 14b-587_1, Event Lawyer Review is not enabled, so reject.
+In 14b-358_0, Event Architect Review is not enabled, so reject.
+In 14a-138_0, Event Lawyer Review is not enabled, so reject.
+In 14b-312_0, Event Lawyer Review is not enabled, so reject.
+In 14b-466_2, Event Lawyer Review is not enabled, so reject.
+In 14a-039_0, Event Architect Review is not enabled, so reject.
+In 14a-269_0, Event Architect Review is not enabled, so reject.
+In 14b-489_1, Event Lawyer Review is not enabled, so reject.
+In 14a-092_0, Event Lawyer Review is not enabled, so reject.
+In 14a-102_0, Event Lawyer Review is not enabled, so reject.
+In 14a-148_0, Event Lawyer Review is not enabled, so reject.
+In 14b-368_0, Event Architect Review is not enabled, so reject.
+In 14b-577_1, Event Architect Review is not enabled, so reject.
+In 14b-322_0, Event Lawyer Review is not enabled, so reject.
+In 14b-432_1, Event Lawyer Review is not enabled, so reject.
+In 14b-478_1, Event Lawyer Review is not enabled, so reject.
+In 14a-027_0, Event Lawyer Review is not enabled, so reject.
+In 14a-114_0, Event Architect Review is not enabled, so reject.
+In 14a-137_0, Event Lawyer Review is not enabled, so reject.
+In 14a-080_0, Event Lawyer Review is not enabled, so reject.
+In 14b-542_1, Event Lawyer Review is not enabled, so reject.
+In 14b-311_0, Event Lawyer Review is not enabled, so reject.
+In 14b-334_0, Event Lawyer Review is not enabled, so reject.
+In 14b-446_1, Event Architect Review is not enabled, so reject.
+In 14b-469_1, Event Lawyer Review is not enabled, so reject.
+In 14a-226_0, Event Lawyer Review is not enabled, so reject.
+In 14b-302_0, Event Lawyer Review is not enabled, so reject.
+In 14b-325_0, Event Lawyer Review is not enabled, so reject.
+In 14a-095_0, Event Lawyer Review is not enabled, so reject.
+In 14a-072_0, Event Lawyer Review is not enabled, so reject.
+In 14b-578_1, Event Architect Review is not enabled, so reject.
+In 14a-105_0, Event Lawyer Review is not enabled, so reject.
+In 14a-128_0, Event Lawyer Review is not enabled, so reject.
+In 14b-458_1, Event Lawyer Review is not enabled, so reject.
+In 14a-238_0, Event Lawyer Review is not enabled, so reject.
+In 14b-589_1, Event Lawyer Review is not enabled, so reject.
+In 14b-337_0, Event Lawyer Review is not enabled, so reject.
+In 14a-060_0, Event Lawyer Review is not enabled, so reject.
+In 14a-083_0, Event Lawyer Review is not enabled, so reject.
+In 14b-422_0, Event Lawyer Review is not enabled, so reject.
+In 14a-180_0, Event Architect Review is not enabled, so reject.
+In 14b-468_1, Event Lawyer Review is not enabled, so reject.
+In 14b-631_0, Event Lawyer Review is not enabled, so reject.
+In 14a-094_0, Event Architect Review is not enabled, so reject.
+In 14b-347_0, Event Architect Review is not enabled, so reject.
+In 14b-533_1, Event Architect Review is not enabled, so reject.
+In 14b-556_1, Event Architect Review is not enabled, so reject.
+In 14b-510_1, Event Lawyer Review is not enabled, so reject.
+In 14a-127_0, Event Lawyer Review is not enabled, so reject.
+In 14b-411_0, Event Architect Review is not enabled, so reject.
+In 14a-192_0, Event Lawyer Review is not enabled, so reject.
+In 14b-359_0, Event Lawyer Review is not enabled, so reject.
+In 14a-160_0, Event Lawyer Review is not enabled, so reject.
+In 14b-508_1, Event Lawyer Review is not enabled, so reject.
+In 14b-440_1, Event Lawyer Review is not enabled, so reject.
+In 14a-205_0, Event Lawyer Review is not enabled, so reject.
+In 14b-629_1, Event Architect Review is not enabled, so reject.
+In 14b-572_1, Event Architect Review is not enabled, so reject.
+In 14a-281_0, Event Architect Review is not enabled, so reject.
+In 14b-595_1, Event Lawyer Review is not enabled, so reject.
+In 14b-342_0, Event Lawyer Review is not enabled, so reject.
+In 14a-195_0, Event Lawyer Review is not enabled, so reject.
+In 14a-172_0, Event Lawyer Review is not enabled, so reject.
+In 14b-605_1, Event Lawyer Review is not enabled, so reject.
+In 14a-217_0, Event Lawyer Review is not enabled, so reject.
+In 14b-475_1, Event Lawyer Review is not enabled, so reject.
+In 14b-617_1, Event Lawyer Review is not enabled, so reject.
+In 14b-560_1, Event Lawyer Review is not enabled, so reject.
+In 14b-583_1, Event Lawyer Review is not enabled, so reject.
+In 14b-331_0, Event Lawyer Review is not enabled, so reject.
+In 14b-354_0, Event Architect Review is not enabled, so reject.
+In 14b-509_1, Event Lawyer Review is not enabled, so reject.
+In 14a-204_0, Event Lawyer Review is not enabled, so reject.
+In 14b-462_1, Event Architect Review is not enabled, so reject.
+In 14b-550_1, Event Lawyer Review is not enabled, so reject.
+In 14a-096_0, Event Lawyer Review is not enabled, so reject.
+In 14b-607_1, Event Architect Review is not enabled, so reject.
+In 14b-341_0, Event Lawyer Review is not enabled, so reject.
+In 14a-280_0, Event Lawyer Review is not enabled, so reject.
+In 14a-129_0, Event Architect Review is not enabled, so reject.
+In 14b-596_1, Event Lawyer Review is not enabled, so reject.
+In 14a-106_0, Event Lawyer Review is not enabled, so reject.
+In 14b-364_0, Event Lawyer Review is not enabled, so reject.
+In 14a-171_0, Event Lawyer Review is not enabled, so reject.
+In 14b-474_1, Event Lawyer Review is not enabled, so reject.
+In 14b-497_1, Event Lawyer Review is not enabled, so reject.
+In 14a-216_0, Event Lawyer Review is not enabled, so reject.
+In 14a-239_0, Event Lawyer Review is not enabled, so reject.
+In 14b-618_1, Event Lawyer Review is not enabled, so reject.
+In 14b-561_1, Event Lawyer Review is not enabled, so reject.
+In 14b-330_0, Event Lawyer Review is not enabled, so reject.
+In 14b-353_0, Event Lawyer Review is not enabled, so reject.
+In 14b-376_0, Event Lawyer Review is not enabled, so reject.
+In 14b-465_3, Event Architect Review is not enabled, so reject.
+In 14b-488_1, Event Architect Review is not enabled, so reject.
+In 14b-574_1, Event Lawyer Review is not enabled, so reject.
+In 14a-185_0, Event Lawyer Review is not enabled, so reject.
+In 14a-109_0, Event Lawyer Review is not enabled, so reject.
+In 14b-321_0, Event Architect Review is not enabled, so reject.
+In 14b-344_0, Event Lawyer Review is not enabled, so reject.
+In 14b-477_1, Event Lawyer Review is not enabled, so reject.
+In 14b-619_1, Event Lawyer Review is not enabled, so reject.
+In 14b-562_1, Event Lawyer Review is not enabled, so reject.
+In 14a-174_0, Event Lawyer Review is not enabled, so reject.
+In 14b-310_0, Event Lawyer Review is not enabled, so reject.
+In 14b-356_0, Event Lawyer Review is not enabled, so reject.
+In 14b-585_1, Event Lawyer Review is not enabled, so reject.
+In 14a-161_0, Event Lawyer Review is not enabled, so reject.
+In 14a-075_0, Event Architect Review is not enabled, so reject.
+In 14a-098_0, Event Lawyer Review is not enabled, so reject.
+In 14b-464_1, Event Lawyer Review is not enabled, so reject.
+In 14b-598_1, Event Lawyer Review is not enabled, so reject.
+In 14b-609_1, Event Lawyer Review is not enabled, so reject.
+In 14b-366_2, Event Architect Review is not enabled, so reject.
+In 14a-052_0, Event Architect Review is not enabled, so reject.
+In 14a-108_0, Event Lawyer Review is not enabled, so reject.
+In 14b-343_0, Event Lawyer Review is not enabled, so reject.
+In 14b-476_1, Event Architect Review is not enabled, so reject.
+In 14a-218_0, Event Lawyer Review is not enabled, so reject.
+In 14b-355_2, Event Architect Review is not enabled, so reject.
+In 14b-586_1, Event Lawyer Review is not enabled, so reject.
+In 14a-262_0, Event Lawyer Review is not enabled, so reject.
+In 14a-285_0, Event Architect Review is not enabled, so reject.
+In 14a-078_0, Event Lawyer Review is not enabled, so reject.
+In 14b-429_1, Event Architect Review is not enabled, so reject.
+In 14b-482_1, Event Lawyer Review is not enabled, so reject.
+In 14a-209_0, Event Lawyer Review is not enabled, so reject.
+In 14b-298_0, Event Architect Review is not enabled, so reject.
+In 14a-141_0, Event Lawyer Review is not enabled, so reject.
+In 14b-515_1, Event Architect Review is not enabled, so reject.
+In 14b-538_1, Event Architect Review is not enabled, so reject.
+In 14b-591_1, Event Lawyer Review is not enabled, so reject.
+In 14b-361_0, Event Architect Review is not enabled, so reject.
+In 14a-274_0, Event Lawyer Review is not enabled, so reject.
+In 14b-471_1, Event Architect Review is not enabled, so reject.
+In 14b-624_1, Event Lawyer Review is not enabled, so reject.
+In 14a-130_0, Event Architect Review is not enabled, so reject.
+In 14b-503_1, Event Architect Review is not enabled, so reject.
+In 14b-549_1, Event Lawyer Review is not enabled, so reject.
+In 14a-153_0, Event Lawyer Review is not enabled, so reject.
+In 14a-176_0, Event Lawyer Review is not enabled, so reject.
+In 14b-350_0, Event Lawyer Review is not enabled, so reject.
+In 14b-396_0, Event Lawyer Review is not enabled, so reject.
+In 14a-284_0, Event Lawyer Review is not enabled, so reject.
+In 14a-140_0, Event Lawyer Review is not enabled, so reject.
+In 14b-297_0, Event Lawyer Review is not enabled, so reject.
+In 14b-614_1, Event Lawyer Review is not enabled, so reject.
+In 14b-307_0, Event Architect Review is not enabled, so reject.
+In 14a-163_0, Event Lawyer Review is not enabled, so reject.
+In 14a-186_0, Event Lawyer Review is not enabled, so reject.
+In 14a-261_0, Event Lawyer Review is not enabled, so reject.
+In 14b-539_1, Event Lawyer Review is not enabled, so reject.
+In 14b-592_1, Event Lawyer Review is not enabled, so reject.
+In 14b-360_0, Event Lawyer Review is not enabled, so reject.
+In 14b-516_1, Event Lawyer Review is not enabled, so reject.
+In 14a-273_0, Event Lawyer Review is not enabled, so reject.
+In 14b-493_1, Event Architect Review is not enabled, so reject.
+In 14a-042_0, Event Lawyer Review is not enabled, so reject.
+In 14a-088_0, Event Lawyer Review is not enabled, so reject.
+In 14a-296_0, Event Lawyer Review is not enabled, so reject.
+In 14b-602_1, Event Lawyer Review is not enabled, so reject.
+In 14b-625_1, Event Lawyer Review is not enabled, so reject.
+In 14a-152_0, Event Lawyer Review is not enabled, so reject.
+In 14a-175_0, Event Lawyer Review is not enabled, so reject.
+In 14a-250_0, Event Lawyer Review is not enabled, so reject.
+In 14b-527_1, Event Lawyer Review is not enabled, so reject.
+In 14b-395_0, Event Lawyer Review is not enabled, so reject.
+In 14a-287_0, Event Architect Review is not enabled, so reject.
+In 14b-529_1, Event Lawyer Review is not enabled, so reject.
+In 14b-484_1, Event Lawyer Review is not enabled, so reject.
+In 14b-570_1, Event Lawyer Review is not enabled, so reject.
+In 14a-120_0, Event Lawyer Review is not enabled, so reject.
+In 14b-517_1, Event Lawyer Review is not enabled, so reject.
+In 14a-166_0, Event Architect Review is not enabled, so reject.
+In 14b-593_1, Event Lawyer Review is not enabled, so reject.
+In 14a-230_0, Event Lawyer Review is not enabled, so reject.
+In 14a-253_0, Event Lawyer Review is not enabled, so reject.
+In 14a-276_0, Event Lawyer Review is not enabled, so reject.
+In 14a-045_0, Event Architect Review is not enabled, so reject.
+In 14b-626_1, Event Lawyer Review is not enabled, so reject.
+In 14b-496_1, Event Lawyer Review is not enabled, so reject.
+In 14b-409_0, Event Architect Review is not enabled, so reject.
+In 14b-352_0, Event Lawyer Review is not enabled, so reject.
+In 14b-505_1, Event Architect Review is not enabled, so reject.
+In 14b-528_1, Event Lawyer Review is not enabled, so reject.
+In 14b-581_1, Event Lawyer Review is not enabled, so reject.
+In 14a-155_0, Event Lawyer Review is not enabled, so reject.
+In 14b-507_1, Event Lawyer Review is not enabled, so reject.
+In 14a-240_0, Event Lawyer Review is not enabled, so reject.
+In 14a-286_0, Event Lawyer Review is not enabled, so reject.
+In 14a-263_0, Event Lawyer Review is not enabled, so reject.
+In 14b-407_0, Event Lawyer Review is not enabled, so reject.
+In 14a-056_0, Event Lawyer Review is not enabled, so reject.
+In 14b-483_1, Event Lawyer Review is not enabled, so reject.
+In 14b-299_0, Event Lawyer Review is not enabled, so reject.
+In 14b-571_1, Event Lawyer Review is not enabled, so reject.
+In 14b-309_0, Event Lawyer Review is not enabled, so reject.
+In 14a-165_0, Event Lawyer Review is not enabled, so reject.
+In 14a-188_0, Event Lawyer Review is not enabled, so reject.
+In 14b-594_1, Event Lawyer Review is not enabled, so reject.
+In 14b-362_2, Event Lawyer Review is not enabled, so reject.
+In 14a-275_0, Event Lawyer Review is not enabled, so reject.
+In 14b-518_1, Event Lawyer Review is not enabled, so reject.
+In 14a-252_0, Event Lawyer Review is not enabled, so reject.
+In 14b-472_1, Event Architect Review is not enabled, so reject.
+In 14b-604_1, Event Lawyer Review is not enabled, so reject.
+In 14b-627_1, Event Lawyer Review is not enabled, so reject.
+In 14b-495_1, Event Lawyer Review is not enabled, so reject.
+In 14b-582_1, Event Lawyer Review is not enabled, so reject.
+total amount is: 594
+reject amount is: 289
+accept amount is: 305
+
+
